@@ -4,3 +4,4 @@ A simple Jukebox application implemented in C# and WPF technology with all the f
 
 ![5](https://github.com/banovicluka/jukebox-desktop-app/assets/58904845/702b8828-57f0-40c7-bfd3-14d4b2d79a3d)
 
+
